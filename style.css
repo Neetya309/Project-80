@@ -1,0 +1,19 @@
+
+body{
+text-align: center;
+background-color:beige; 
+}
+div{
+    margin:10px;
+    width:50%;
+
+}
+button{
+    width:90%;
+    margin-top: 20px;
+
+}
+#showParagraph1 , #showParagraph2 {
+    width: 100%;
+    margin: 20px;
+}
